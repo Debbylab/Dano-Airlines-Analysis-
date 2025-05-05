@@ -50,5 +50,6 @@ The dataset includes:
 
 ## Screenshots
 
-![Dashboard Overview](https://github.com/Debbylab/Dano-Airlines-Analysis-/blob/main/Dano%20airlines.png) [power query/Data Clean](https://github.com/Debbylab/Dano-Airlines-Analysis-/blob/main/DANO%20AIRLINE%20POWER%20QUERY%20.png)
+![Dashboard Overview](https://github.com/Debbylab/Dano-Airlines-Analysis-/blob/main/Dano%20airlines.png) 
+![power query/Data Clean](https://github.com/Debbylab/Dano-Airlines-Analysis-/blob/main/DANO%20AIRLINE%20POWER%20QUERY%20.png)
  
